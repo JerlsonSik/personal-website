@@ -1,0 +1,20 @@
+.tag {
+    padding: 3px 20px;
+    height: 30px;
+    width: fit-content;
+    font-size: 12px;
+    line-height: 30px;
+    border-radius: 25px;
+    background-color: blue;
+    color: white;
+
+}
+
+.img-pro{
+    background-color: hsla(0,0%,46%,.2);
+    border-radius: 1.7rem;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    height: auto;
+    overflow: hidden;
+    width: 53rem
+}
